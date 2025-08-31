@@ -21,8 +21,8 @@ while True:
     senha = conexao.recv(1024).decode()
     
     #Envia uma reposta codificada
-    if login == 'admin' and senha == 'admin':
-        conexao.send('Bem vindo admin'.encode())
+    if login == '1152025100441' and senha == '123456':
+        conexao.send('Bem vindo Andrey'.encode())
         conexao.close()
         break #sai do loop se o login for correto
     else:

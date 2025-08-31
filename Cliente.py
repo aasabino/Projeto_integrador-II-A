@@ -24,5 +24,5 @@ while True:
 
     cliente.close()
 
-    if resposta == 'Bem vindo admin':
+    if resposta == 'Bem vindo Andrey':
         break
