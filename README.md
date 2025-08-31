@@ -1,2 +1,2 @@
 # Projeto_integrador-II-A
-Projeto da faculdade com o objetivo de desenvolver habilidades em programação
+Desafio - Criar um programa em python que simule um sistema de caixa eletrônico com as opcões depositar, sacar e visualizar saldo, porém separados em dois ambientes: cliente e servidor
